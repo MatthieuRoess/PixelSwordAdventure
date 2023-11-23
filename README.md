@@ -1,2 +1,10 @@
 # PixelSword
-Jeu en java avec LibGDX
+Jeu en java réalisé avec LibGDX
+
+Commandes :
+
+Menu : Échap
+Space : Shop (éxit tab)
+Attaque : Clic Gauche
+Équiper/Utiliser : K
+Changer de personnage : T
