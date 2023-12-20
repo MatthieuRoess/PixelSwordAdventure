@@ -27,8 +27,8 @@ Assurez-vous d'avoir Java installé sur votre machine.
 
 ## Comment exécuter le jeu
 
-1. **Cloner le dépôt :** `git clone https://github.com/votre-utilisateur/PixelSwordAdventure.git`
-2. **Accéder au répertoire :** `cd PixelSwordAdventure`
+1. **Cloner le dépôt :** `git clone https://github.com/MatthieuRoess/PixelSword.git`
+2. **Accéder au répertoire :** `cd PixelSword`
 3. **Exécuter le jeu :** `gradlew desktop:run`
 
 ## Contribuer
