@@ -2,6 +2,10 @@
 
 Bienvenue dans PixelSwordAdventure, un jeu d'action en Java réalisé avec le framework LibGDX. Affrontez des gobelins, récupérez des équipements et relevez des défis de plus en plus difficiles à chaque niveau.
 
+
+https://github.com/MatthieuRoess/PixelSwordAdventure/assets/123086572/155651c1-f488-4c54-8bf9-eb640d9f8df7
+
+
 ## Commandes
 
 - **Menu :** Échap
